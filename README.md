@@ -1,6 +1,6 @@
 # OnTruck Front-end Exercise Solution - Gerard Cabrerizo
 
-![Video of the app](https://media.giphy.com/media/3d1aGRMpcHtt6iK163/giphy.gif)
+![Video of the app](https://media.giphy.com/media/7Tey6yjOVIPVdZKuqL/giphy.gif)
 
 ### Setting up the server and client (NodeJS)
 
