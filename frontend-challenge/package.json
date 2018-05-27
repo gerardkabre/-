@@ -1,0 +1,24 @@
+{
+  "name": "ontruck-frontend-exercise",
+  "version": "0.0.1",
+  "description": "OnTruck frontend interview exercise",
+  "scripts": {
+    "test": "echo 'No tests'",
+    "lint": "eslint **/*.js",
+    "mocks": "dyson server/"
+  },
+  "author": "Rubén <ruben@ontruck.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-react": "^7.5.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3"
+  },
+  "dependencies": {
+    "dyson": "^2.0.0",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.4"
+  }
+}

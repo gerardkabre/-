@@ -1,0 +1,39 @@
+.vehicleCard {
+  height: 250px;
+  width: 100%;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  padding: 30px 10px 20px 0px;
+}
+.vehicleCard__image {
+  text-align: center;
+}
+
+
+.vehicleCard__title {
+  color: #383e42;
+  font-size: 1em;
+  margin-left: 10%;
+}
+
+.vehicleCard__DriversList {
+  list-style: none;
+  overflow-y: scroll;
+  height: 65%;
+  margin-left: 10%;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.vehicleCard__DriversList__Item {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 8px;
+  color: #383e42;
+}
+
+.vehicleCard__DriversList__Item-Email {
+  color: #c8ccce;
+  font-size: 0.8em;
+}

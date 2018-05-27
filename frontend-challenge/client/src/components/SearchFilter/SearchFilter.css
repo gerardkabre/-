@@ -1,0 +1,11 @@
+.SearchFilter {
+    width: 250px;
+    height: 25px;
+    margin: 10px;
+    border: 2px solid grey;
+    padding: 5px;
+}
+
+.SearchFilter:focus {
+    outline-width: 0;
+}
